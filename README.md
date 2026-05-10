@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 <!---LeetCode Topics End-->
