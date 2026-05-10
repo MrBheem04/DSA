@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/MrBheem04/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
