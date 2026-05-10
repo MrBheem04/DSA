@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/MrBheem04/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Backtracking
 |  |
