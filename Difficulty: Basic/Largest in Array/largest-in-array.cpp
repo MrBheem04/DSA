@@ -3,8 +3,7 @@ class Solution {
     int largest(vector<int> &arr) {
         // code here
         int maxi = arr[0];
-        
-        for(int i=1;i<arr.size();i++){
+        for(int i=0;i<arr.size();i++){
             if(maxi < arr[i]){
                 maxi = arr[i];
             }
