@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/MrBheem04/DSA/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MrBheem04/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MrBheem04/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/MrBheem04/DSA/tree/master/0051-n-queens) |
 ## Sorting
 |  |
 | ------- |
