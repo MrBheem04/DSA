@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MrBheem04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MrBheem04/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MrBheem04/DSA/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
