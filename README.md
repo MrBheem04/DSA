@@ -37,9 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MrBheem04/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MrBheem04/DSA/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/MrBheem04/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
