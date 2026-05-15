@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MrBheem04/DSA/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/MrBheem04/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MrBheem04/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MrBheem04/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/MrBheem04/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MrBheem04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MrBheem04/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/MrBheem04/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/MrBheem04/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
@@ -113,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MrBheem04/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MrBheem04/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
