@@ -9,7 +9,7 @@ public:
         for(int i=0;i<n;i++){
             if(nums[i] > 0){
                 ans[positiveIndex] = nums[i];
-                positiveIndex += 2; 
+                positiveIndex += 2;
             }
             else{
                 ans[negativeIndex] = nums[i];
