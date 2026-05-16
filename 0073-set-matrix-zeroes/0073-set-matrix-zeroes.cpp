@@ -18,7 +18,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(row[i] || col[j]){
-                    matrix[i][j] = 0;
+                    matrix[i][j] = 0; 
                 }
             }
         }
