@@ -7,7 +7,7 @@ public:
             if(nums[i] > nums[(i+1)%n]){
                 count++;
             }
-        }
+        } 
         return count<=1;
     }
 };
