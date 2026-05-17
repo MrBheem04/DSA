@@ -11,21 +11,10 @@ public:
                 el = nums[i];
             } else if (el == nums[i]) {
                 count++;
-                el = nums[i];
             } else {
                 count--;
             }
         }
-        int count1 = 0;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == el) {
-                count1++;
-                el = nums[i];
-            }
-        }
-        if (count1 > n / 2) {
-            return el;
-        }
-        return -1;
+        return el;
     }
 };
