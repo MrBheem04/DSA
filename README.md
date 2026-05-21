@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MrBheem04/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MrBheem04/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/MrBheem04/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/MrBheem04/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/MrBheem04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0796-rotate-string](https://github.com/MrBheem04/DSA/tree/master/0796-rotate-string) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MrBheem04/DSA/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
