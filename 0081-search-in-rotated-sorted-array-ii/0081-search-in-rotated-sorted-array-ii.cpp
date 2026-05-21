@@ -11,6 +11,7 @@ public:
             if(nums[mid] == target){
                 return true;
             }
+
             if(nums[low] == nums[mid] && nums[mid] == nums[high]){
                 low++;
                 high--;
