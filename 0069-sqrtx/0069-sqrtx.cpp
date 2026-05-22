@@ -4,15 +4,15 @@ public:
         if(x < 2){
             return x;
         }
-
-        int left = 0,right = x/2;
+        int left = 0;
+        int right = x/2;
         int ans = 0;
 
         while(left <= right){
-            long long mid = left + (right - left)/2;
+            int mid = left+ (right -left)/2;
 
-            if(mid * mid <= x){
-                ans = mid;
+            if(1ll*mid * mid <= x){
+                ans= mid;
                 left = mid+1;
             }
             else{
