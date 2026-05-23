@@ -10,17 +10,16 @@ class Solution {
 public:
     int smallestDivisor(vector<int>& nums, int threshold) {
         int n = nums.size();
-        int low = 1;
-        int high = *max_element(nums.begin(),nums.end());
-
         if(n > threshold){
             return -1;
         }
+        int low = 1;
+        int high = *max_element(nums.begin(),nums.end());
 
         while(low <= high){
             int mid = (low + high)/2;
 
-            if(sumBy (nums,mid) <= threshold){
+            if(sumBy(nums,mid) <= threshold){
                 high = mid-1;
             }
             else{
