@@ -1,6 +1,6 @@
 class Solution {
-    bool canweship(vector<int>&weights,int days,int capacity){
-        int n = weights.size();
+    bool canweship(vector<int>& weights,int days,int capacity){
+        int n =  weights.size();
         int usedDays = 1;
         int currentload = 0;
 
@@ -14,7 +14,7 @@ class Solution {
         return usedDays <= days;
     }
     int findmax(vector<int>&nums){
-        int n = nums.size();
+        int n=nums.size();
         int maxi = INT_MIN;
         for(int i=0;i<n;i++){
             maxi = max(maxi,nums[i]);
@@ -34,7 +34,7 @@ public:
         int n = weights.size();
         int low = findmax(weights);
         int high = findsum(weights);
-        int ans = high;
+        int ans = 0;
 
         while(low <= high){
             int mid = (low + high)/2;
