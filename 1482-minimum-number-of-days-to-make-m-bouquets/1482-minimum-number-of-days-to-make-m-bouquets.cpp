@@ -1,8 +1,8 @@
 class Solution {
-    bool possible(vector<int>&nums,int m ,int k ,int days){
+    bool possible(vector<int>&nums,int m,int k,int days){
         int n = nums.size();
-        int count = 0;
         int nofb = 0;
+        int count = 0;
 
         for(int i=0;i<n;i++){
             if(nums[i] <= days){
@@ -14,16 +14,16 @@ class Solution {
             }
         }
         nofb += (count / k);
-        return nofb >=m;
+        return nofb >= m; 
     }
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n = bloomDay.size();
-        long long val = m * 1LL * k * 1ll;
+        long long val = m *1LL * k * 1LL;
 
         if(val > n){
             return -1;
-        }    
+        }
         int mini = INT_MAX;
         int maxi = INT_MIN;
 
@@ -35,7 +35,7 @@ public:
         int high = maxi;
 
         while(low <= high){
-            int mid = (low+high)/2;
+            int mid = (low + high)/2;
 
             if(possible(bloomDay,m,k,mid)){
                 high = mid-1;
