@@ -2,11 +2,10 @@ class Solution {
   public:
     int largest(vector<int> &arr) {
         // code here
-        int maxi = arr[0];
-        for(int i=0;i<arr.size();i++){
-            if(maxi < arr[i]){
-                maxi = arr[i];
-            }
+        int n = arr.size();
+        int maxi = 0;
+        for(int i=0;i<n;i++){
+            maxi = max(maxi,arr[i]);
         }
         return maxi;
     }
