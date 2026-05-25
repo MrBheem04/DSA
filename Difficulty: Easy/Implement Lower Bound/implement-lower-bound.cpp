@@ -11,7 +11,7 @@ class Solution {
             int mid = (low + high)/2;
             
             if(arr[mid] >= target){
-                ans = mid; 
+                ans = mid;
                 high = mid-1;
             }
             else{
