@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MrBheem04/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/MrBheem04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MrBheem04/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/MrBheem04/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MrBheem04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/MrBheem04/DSA/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MrBheem04/DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/MrBheem04/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MrBheem04/DSA/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/MrBheem04/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MrBheem04/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/MrBheem04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0796-rotate-string](https://github.com/MrBheem04/DSA/tree/master/0796-rotate-string) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MrBheem04/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MrBheem04/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MrBheem04/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/MrBheem04/DSA/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MrBheem04/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
