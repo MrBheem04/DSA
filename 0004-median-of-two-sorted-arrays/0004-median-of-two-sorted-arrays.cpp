@@ -3,48 +3,43 @@ public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int n1 = nums1.size();
         int n2 = nums2.size();
-        int n = n1 + n2;
+        int n = n1+n2;
         int ind1 = n / 2;
-        int ind2 = n / 2 - 1;
-        int cnt = 0;
-        int ind1el = -1, ind2el = -1;
-        int i=0,j=0;
-        while (i < n1 && j < n2) {
-            if (nums1[i] < nums2[j]) {
-                if (cnt == ind1)
-                    ind1el = nums1[i];
-                if (cnt == ind2)
-                    ind2el = nums1[i];
-                cnt++;
+        int ind2 = ind1-1;
+        int indel1 = -1, indel2 = -1;
+        int count = 0;
+        int i = 0;
+        int j = 0;
+
+        while(i < n1 && j < n2){
+            if(nums1[i] < nums2[j]){
+                if(count == ind1)indel1 = nums1[i];
+                if(count == ind2)indel2 = nums1[i];
+                count++;
                 i++;
-            } else {
-                if (cnt == ind1)
-                    ind1el = nums2[j];
-                if (cnt == ind2)
-                    ind2el = nums2[j];
-                cnt++;
+            }
+            else{
+                if(count == ind1)indel1 = nums2[j];
+                if(count == ind2)indel2 = nums2[j];
+                count++;
                 j++;
             }
         }
-        while (i < n1) {
-            if (cnt == ind1)
-                ind1el = nums1[i];
-            if (cnt == ind2)
-                ind2el = nums1[i];
-            cnt++;
+        while(i < n1){
+            if(count == ind1)indel1 = nums1[i];
+            if(count == ind2)indel2 = nums1[i];
+            count++;
             i++;
         }
-        while (j < n2) {
-            if (cnt == ind1)
-                ind1el = nums2[j];
-            if (cnt == ind2)
-                ind2el = nums2[j];
-             cnt++;
-             j++;
+        while(j < n2){
+            if(count == ind1)indel1 = nums2[j];
+            if(count == ind2)indel2 = nums2[j];
+            count++;
+            j++;
         }
-        if(n % 2 == 1){
-            return (double)ind1el;
+        if( n % 2 == 1){
+            return (double)(indel1);
         }
-        return (double)((double) (ind1el + ind2el))/2.0;
+        return (double)((double)(indel1 + indel2))/2.0;
     }
 };
