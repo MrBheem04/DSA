@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
