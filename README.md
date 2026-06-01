@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MrBheem04/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MrBheem04/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MrBheem04/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
