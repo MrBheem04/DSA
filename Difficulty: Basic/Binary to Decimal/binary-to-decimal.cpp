@@ -4,13 +4,13 @@ class Solution {
         // Code here.
         int n = b.length();
         int num = 0;
-        int p = 1;
+        int p =1;
         
         for(int i=n-1;i>=0;i--){
             if(b[i] == '1'){
-                num = num + p; 
+                num = num + p;
             }
-            p = p*2;
+            p=p*2;
         }
         return num;
     }
