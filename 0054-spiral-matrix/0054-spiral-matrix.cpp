@@ -4,13 +4,13 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        int left = 0 , right = m-1;
+        int left = 0,right = m-1;
         int top = 0,bottom = n-1;
 
         vector<int>ans;
-        
+
         while(left <= right && top <= bottom){
-            for(int i = left;i<=right;i++){
+            for(int i=left;i<=right;i++){
                 ans.push_back(matrix[top][i]);
             }
             top++;
@@ -20,7 +20,7 @@ public:
             }
             right--;
 
-            if(top <= bottom){
+            if(top<=bottom){
                 for(int i=right;i>=left;i--){
                     ans.push_back(matrix[bottom][i]);
                 }
