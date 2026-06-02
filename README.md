@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MrBheem04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MrBheem04/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MrBheem04/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MrBheem04/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MrBheem04/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MrBheem04/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0088-merge-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/MrBheem04/DSA/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/MrBheem04/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MrBheem04/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/MrBheem04/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MrBheem04/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MrBheem04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MrBheem04/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/MrBheem04/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MrBheem04/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
