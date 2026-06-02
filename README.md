@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MrBheem04/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MrBheem04/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/MrBheem04/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/MrBheem04/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/MrBheem04/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MrBheem04/DSA/tree/master/0070-climbing-stairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MrBheem04/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/MrBheem04/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
