@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
+| [0507-perfect-number](https://github.com/MrBheem04/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [1390-four-divisors](https://github.com/MrBheem04/DSA/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
