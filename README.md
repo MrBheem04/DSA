@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrBheem04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MrBheem04/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MrBheem04/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/MrBheem04/DSA/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/MrBheem04/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MrBheem04/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MrBheem04/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/MrBheem04/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MrBheem04/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/MrBheem04/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/MrBheem04/DSA/tree/master/0260-single-number-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
