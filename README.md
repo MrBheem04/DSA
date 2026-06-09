@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MrBheem04/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MrBheem04/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Depth-First Search
 |  |
 | ------- |
