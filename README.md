@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/MrBheem04/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MrBheem04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
