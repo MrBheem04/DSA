@@ -13,7 +13,7 @@ class Solution {
         for(int i=0;i<m;i++){
             st.insert(b[i]);
         }
-        vector<int>unionArray(st.begin(),st.end());
-        return unionArray;
+        vector<int>UnionArray(st.begin(),st.end());
+        return UnionArray;
     }
 };
