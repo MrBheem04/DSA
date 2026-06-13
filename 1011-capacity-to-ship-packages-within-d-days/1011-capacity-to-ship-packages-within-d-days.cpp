@@ -1,43 +1,28 @@
 class Solution {
-    bool canweship(vector<int>& weights,int days,int capacity){
-        int n =  weights.size();
+    bool canweship(vector<int>&weights,int days ,int capacity){
+        int n = weights.size();
+        int currentLoad = 0;
         int usedDays = 1;
-        int currentload = 0;
 
         for(int i=0;i<n;i++){
-            if(currentload + weights[i] > capacity){
+            if(weights[i] + currentLoad > capacity){
                 usedDays++;
-                currentload = 0;
+                currentLoad = 0;
             }
-            currentload += weights[i];
+            currentLoad += weights[i];
         }
         return usedDays <= days;
-    }
-    int findmax(vector<int>&nums){
-        int n=nums.size();
-        int maxi = INT_MIN;
-        for(int i=0;i<n;i++){
-            maxi = max(maxi,nums[i]);
-        }
-        return maxi;
-    }
-    int findsum(vector<int>&nums){
-        int n = nums.size();
-        int sum = 0;
-        for(int i=0;i<n;i++){
-            sum += nums[i];
-        }
-        return sum;
     }
 public:
     int shipWithinDays(vector<int>& weights, int days) {
         int n = weights.size();
-        int low = findmax(weights);
-        int high = findsum(weights);
+
+        int low = *max_element(weights.begin(),weights.end());
+        int high = accumulate(weights.begin(),weights.end(),0);
         int ans = 0;
 
         while(low <= high){
-            int mid = (low + high)/2;
+            int mid =(low + high)/2;
 
             if(canweship(weights,days,mid)){
                 ans = mid;
