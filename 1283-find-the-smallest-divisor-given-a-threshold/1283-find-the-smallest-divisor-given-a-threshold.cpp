@@ -3,7 +3,7 @@ class Solution {
         int n = nums.size();
         int sum = 0;
         for(int i=0;i<n;i++){
-            sum += ceil((double)(nums[i]) / (double)(div));
+            sum += ceil((double) (nums[i]) / (double) (div));
         }
         return sum;
     }
@@ -17,7 +17,7 @@ public:
         int high = *max_element(nums.begin(),nums.end());
 
         while(low <= high){
-            int mid = (low + high)/2;
+            int mid =(low + high)/2;;
 
             if(sumBy(nums,mid) <= threshold){
                 high = mid-1;
