@@ -12,7 +12,7 @@ public:
                 return true;
             }
             else if(matrix[row][col] < target){
-               row++;
+                row++;
             }
             else{
                 col--;
