@@ -18,6 +18,6 @@ public:
         ListNode* front = head->next;
         front->next = head;
         head->next = NULL;
-        return newHead;
+        return newHead; 
     }
 };
