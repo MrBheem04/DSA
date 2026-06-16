@@ -17,7 +17,7 @@ struct Node
 */
 Node *deleteHead(Node *head) {
     // Your code here
-    if(head == NULL || head->next == NULL){
+    if(head == NULL && head->next == NULL){
         return NULL;
     }
     Node* prev = head;
