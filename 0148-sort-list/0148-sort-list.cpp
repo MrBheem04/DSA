@@ -12,14 +12,13 @@ class Solution {
     ListNode* findmiddle(ListNode* head){
         ListNode* slow = head;
         ListNode* fast = head->next;
-
         while(fast != NULL && fast->next != NULL){
             slow = slow->next;
-            fast = fast ->next->next;
-        } 
+            fast = fast->next->next; 
+        }
         return slow;
     }
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2){
+    ListNode* mergeTwoLists(ListNode* list1,ListNode* list2){
         ListNode dummy(-1);
         ListNode* temp = &dummy;
 
