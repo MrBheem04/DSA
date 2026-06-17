@@ -38,7 +38,7 @@ class Solution {
             }
             temp = temp->next;
         }
-        zero->next = (oneHead->next) ? (oneHead->next) :(twoHead->next);
+        zero->next = (oneHead->next) ? oneHead->next : twoHead->next;
         one->next = twoHead->next;
         two->next = NULL;
         
@@ -49,6 +49,5 @@ class Solution {
         delete twoHead;
         
         return newHead;
-        
     }
 };
