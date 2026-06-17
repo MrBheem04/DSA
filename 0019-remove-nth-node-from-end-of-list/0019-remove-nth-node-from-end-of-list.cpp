@@ -20,8 +20,7 @@ public:
         if (fast == NULL) {
             return head->next;
         }
-
-        while (fast->next != NULL) {
+        while(fast->next != NULL){
             slow = slow->next;
             fast = fast->next;
         }
