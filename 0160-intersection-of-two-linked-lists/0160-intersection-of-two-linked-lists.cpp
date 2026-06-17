@@ -14,7 +14,6 @@ public:
         }
         ListNode* temp1 = headA;
         ListNode* temp2 = headB;
-
         while(temp1 != temp2){
             temp1 = temp1->next;
             temp2 = temp2->next;
@@ -22,7 +21,6 @@ public:
             if(temp1 == temp2){
                 return temp1;
             }
-
             if(temp1 == NULL){
                 temp1 = headA;
             }
