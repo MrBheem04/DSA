@@ -9,36 +9,36 @@
  * };
  */
 class Solution {
-    ListNode* findNthNode(ListNode* temp , int k){
-        int count = 1;
+public:
+    ListNode* findKthNode(ListNode* temp ,int k){
+        int count =1;
         while(temp != NULL){
-            if(count == k)return temp;
-
+            if(count == k){
+                return temp; 
+            }
             count++;
             temp = temp->next;
         }
-        return NULL; 
-    } 
-public:
+        return NULL;
+    }
     ListNode* rotateRight(ListNode* head, int k) {
         if(head == NULL || k == 0)return head;
+
         ListNode* tail = head;
         int len = 1;
         while(tail->next != NULL){
             tail = tail->next;
             len += 1;
-        }
+        } 
         if(k % len == 0)return head;
-
         k = k % len;
 
         tail->next = head;
 
-        ListNode* newNode = findNthNode(head,len-k);
-
+        ListNode* newNode = findKthNode(head,len-k);
         head = newNode->next;
         newNode->next = NULL;
-
         return head;
+
     }
 };
