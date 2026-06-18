@@ -15,7 +15,7 @@ class Solution {
   public:
     Node* removeDuplicates(Node* headRef) {
         // code here
-        Node * temp = headRef;
+        Node* temp = headRef;
         while(temp != NULL && temp->next != NULL){
             Node* nextNode = temp->next;
             while(nextNode != NULL && nextNode->data == temp->data){
@@ -24,7 +24,7 @@ class Solution {
                 free(duplicate);
             }
             temp->next = nextNode;
-            if(nextNode != NULL)nextNode->prev =temp;
+            if(nextNode != NULL)nextNode->prev = temp;
             temp = temp->next;
         }
         return headRef;
