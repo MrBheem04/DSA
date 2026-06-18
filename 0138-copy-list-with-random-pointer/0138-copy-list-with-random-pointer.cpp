@@ -15,33 +15,33 @@ public:
 */
 
 class Solution {
-     void insertcopyBetween(Node* head){
+public:
+    void insertcopyBetween(Node* head){
         Node* temp = head;
         while(temp != NULL){
-            Node* NextEle = temp->next;
+            Node* nextEle = temp->next;
             Node* copy = new Node(temp->val);
 
-            copy->next = NextEle;
+            copy->next = nextEle;
             temp->next = copy;
 
-            temp = NextEle;
+            temp = nextEle;
         }
     }
-    void connectRandonPointer(Node* head){
+    void connectRandomPointer(Node* head){
         Node* temp = head;
         while(temp != NULL){
             Node* copyNode = temp->next;
-            
+
             if(temp->random){
                 copyNode->random = temp->random->next;
-            }
-            else{
-                copyNode->random = nullptr;
-            }
+            }else
+            copyNode->random = nullptr;
+
             temp = temp->next->next;
         }
     }
-    Node* GetCopyList(Node* head){
+    Node* getcopyList(Node* head){
         Node* temp = head;
         Node* dummy = new Node(-1);
         Node* res = dummy;
@@ -50,16 +50,15 @@ class Solution {
             res->next = temp->next;
             res = res->next;
 
-            temp->next = temp->next->next;
+            temp->next= temp->next->next;
             temp = temp->next;
         }
         return dummy->next;
     }
-public:
     Node* copyRandomList(Node* head) {
         if(head == NULL)return NULL;
         insertcopyBetween(head);
-        connectRandonPointer(head);
-        return GetCopyList(head);
+        connectRandomPointer(head);
+        return getcopyList(head);
     }
 };
