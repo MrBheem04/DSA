@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/MrBheem04/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/MrBheem04/DSA/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/MrBheem04/DSA/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MrBheem04/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MrBheem04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/MrBheem04/DSA/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
