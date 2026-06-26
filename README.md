@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MrBheem04/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/MrBheem04/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/MrBheem04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrBheem04/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrBheem04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MrBheem04/DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/MrBheem04/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MrBheem04/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/MrBheem04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrBheem04/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrBheem04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MrBheem04/DSA/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrBheem04/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/MrBheem04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/MrBheem04/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
