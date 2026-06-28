@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/MrBheem04/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MrBheem04/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/MrBheem04/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MrBheem04/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MrBheem04/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/MrBheem04/DSA/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MrBheem04/DSA/tree/master/3689-maximum-total-subarray-value-i) |
