@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MrBheem04/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/MrBheem04/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/MrBheem04/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrBheem04/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/MrBheem04/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/MrBheem04/DSA/tree/master/0283-move-zeroes) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MrBheem04/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/MrBheem04/DSA/tree/master/0239-sliding-window-maximum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -456,5 +458,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/MrBheem04/DSA/tree/master/0239-sliding-window-maximum) |
 | [2974-minimum-number-game](https://github.com/MrBheem04/DSA/tree/master/2974-minimum-number-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MrBheem04/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MrBheem04/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
