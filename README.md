@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/MrBheem04/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrBheem04/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MrBheem04/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/MrBheem04/DSA/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MrBheem04/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/MrBheem04/DSA/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBheem04/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/MrBheem04/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MrBheem04/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
+| [1288-remove-covered-intervals](https://github.com/MrBheem04/DSA/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
