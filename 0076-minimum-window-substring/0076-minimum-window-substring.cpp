@@ -4,31 +4,35 @@ public:
         int n = s.size();
         int m = t.size();
 
-        vector<int> hash(256, 0);
+        vector<int>hash(256,0);
 
-        int l = 0, r = 0, minLen = INT_MAX, stIndex = -1, count = 0;
+        int l=0;
+        int r=0;
+        int minLen = INT_MAX;
+        int stIndex = -1;
+        int count = 0;
 
-        for (char c : t)
+        for(char c : t){
             hash[c]++;
-
-        while (r < n) {
-            if (hash[s[r]] > 0) {
+        }
+        while(r < n){
+            if(hash[s[r]] > 0){
                 count++;
             }
             hash[s[r]]--;
-            while (count == m) {
-                if (r - l + 1 < minLen) {
-                    minLen = r - l + 1;
+            while(count == m){
+                if(r-l+1 < minLen){
+                    minLen = r-l+1;
                     stIndex = l;
                 }
                 hash[s[l]]++;
-                if (hash[s[l]] > 0) {
-                    count = count - 1;
+                if(hash[s[l]] > 0){
+                    count--;
                 }
-               l++;
+                l++;
             }
             r++;
         }
-        return stIndex == -1 ? "" : s.substr(stIndex, minLen);
+        return stIndex == -1 ?"" : s.substr(stIndex,minLen);
     }
 };
