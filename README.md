@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/MrBheem04/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/MrBheem04/DSA/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/MrBheem04/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MrBheem04/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/MrBheem04/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MrBheem04/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/MrBheem04/DSA/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MrBheem04/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/MrBheem04/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/MrBheem04/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/MrBheem04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBheem04/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MrBheem04/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
