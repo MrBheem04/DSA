@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrBheem04/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrBheem04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrBheem04/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MrBheem04/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/MrBheem04/DSA/tree/master/1922-count-good-numbers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/MrBheem04/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrBheem04/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/MrBheem04/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MrBheem04/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MrBheem04/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
