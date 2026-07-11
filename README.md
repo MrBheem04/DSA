@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MrBheem04/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MrBheem04/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
+| [0355-design-twitter](https://github.com/MrBheem04/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBheem04/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/MrBheem04/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/MrBheem04/DSA/tree/master/0496-next-greater-element-i) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MrBheem04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MrBheem04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MrBheem04/DSA/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/MrBheem04/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MrBheem04/DSA/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/MrBheem04/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MrBheem04/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/MrBheem04/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MrBheem04/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MrBheem04/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0355-design-twitter](https://github.com/MrBheem04/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MrBheem04/DSA/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/MrBheem04/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MrBheem04/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MrBheem04/DSA/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/MrBheem04/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
 | [2974-minimum-number-game](https://github.com/MrBheem04/DSA/tree/master/2974-minimum-number-game) |
 ## Sliding Window
