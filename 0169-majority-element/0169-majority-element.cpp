@@ -4,14 +4,15 @@ public:
         int n = nums.size();
         int count = 0;
         int el;
-
-        for (int i = 0; i < n; i++) {
-            if (count == 0) {
-                count = 1;
-                el = nums[i];
-            } else if (el == nums[i]) {
+        for(int i=0;i<n;i++){
+            if(count == 0){
                 count++;
-            } else {
+                el = nums[i];
+            }
+            else if(nums[i] == el){
+                count++;
+            }
+            else{
                 count--;
             }
         }
