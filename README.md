@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/MrBheem04/DSA/tree/master/3024-type-of-triangle) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MrBheem04/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MrBheem04/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MrBheem04/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MrBheem04/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MrBheem04/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/MrBheem04/DSA/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MrBheem04/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MrBheem04/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MrBheem04/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
@@ -484,12 +486,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/MrBheem04/DSA/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/MrBheem04/DSA/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MrBheem04/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MrBheem04/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MrBheem04/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MrBheem04/DSA/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/MrBheem04/DSA/tree/master/1952-three-divisors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MrBheem04/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MrBheem04/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBheem04/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBheem04/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBheem04/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MrBheem04/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Monotonic Queue
 |  |
 | ------- |
