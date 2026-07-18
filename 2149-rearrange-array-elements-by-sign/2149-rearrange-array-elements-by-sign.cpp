@@ -2,8 +2,9 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
         int n = nums.size();
-        int positiveIndex = 0;
         int negativeIndex = 1;
+        int positiveIndex = 0;
+
         vector<int>ans(n,0);
 
         for(int i=0;i<n;i++){
@@ -11,7 +12,7 @@ public:
                 ans[positiveIndex] = nums[i];
                 positiveIndex += 2;
             }
-            else{
+            else if(nums[i] < 0){
                 ans[negativeIndex] = nums[i];
                 negativeIndex += 2;
             }
