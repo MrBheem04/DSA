@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MrBheem04/DSA/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MrBheem04/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MrBheem04/DSA/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MrBheem04/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/MrBheem04/DSA/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/MrBheem04/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -664,5 +667,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MrBheem04/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/MrBheem04/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0662-maximum-width-of-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
