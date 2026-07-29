@@ -1,38 +1,40 @@
 class Solution {
-	public:
-	int canweplace(vector<int>&stalls, int cows, int d) {
-		int n = stalls.size();
-		int count = 1;
-		int lastpos = stalls[0];
-		
-		for (int i = 0; i<n; i++) {
-			if (stalls[i] - lastpos >= d) {
-				count++;
-				lastpos = stalls[i];
-			}
-			if (count >= cows)return true;
-		}
-		return false;
-	}
-	int aggressiveCows(vector<int> &stalls, int k) {
-		// code here
-		int n = stalls.size();
-		sort(stalls.begin(),stalls.end());
-		int low = 1;
-		int high = stalls[n-1]-stalls[0];
-		int ans = 0;
-		
-		while(low <= high){
-		    int mid =(low + high)/2;
-		    
-		    if(canweplace(stalls,k,mid)){
-		        ans = mid;
-		        low = mid+1;
-		    }
-		    else{
-		        high = mid-1;
-		    }
-		}
-		return ans;
-	}
+  public:
+    bool canweplace(vector<int>& arr ,int cows ,int d){
+        int n = arr.size();
+        int count = 1;
+        int lastpos = arr[0];
+        
+        for(int i=1;i<n;i++){
+            if(arr[i] - lastpos >= d){
+                count++;
+                lastpos = arr[i];
+            }
+            if(count >= cows)return true;
+        }
+        return false;
+    } 
+    int aggressiveCows(vector<int> &arr, int k) {
+        // code here
+        int n = arr.size();
+        
+        sort(arr.begin(),arr.end());
+        
+        int low = 1;
+        int high = arr[n-1]-arr[0];
+        int ans = 0;
+        
+        while(low <= high){
+            int mid = (low + high) /2;
+            
+            if(canweplace(arr,k,mid)){
+                ans = mid;
+                low = mid+1;
+            }
+            else{
+                high = mid-1;
+            }
+        }
+        return ans;
+    }
 };
