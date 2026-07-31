@@ -35,8 +35,9 @@ class Solution {
                 free(temp);
                 temp = nextNode;
             }
-            else
-            temp = temp->next;
+            else{
+                temp = temp->next;
+            }
         }
         return head;
     }
