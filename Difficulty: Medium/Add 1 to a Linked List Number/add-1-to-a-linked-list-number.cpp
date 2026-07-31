@@ -17,6 +17,7 @@ class Solution {
       
       int carry = helper(temp->next);
       temp->data = temp->data+carry;
+      
       if(temp->data < 10)return 0;
       temp->data = 0;
       return 1;
