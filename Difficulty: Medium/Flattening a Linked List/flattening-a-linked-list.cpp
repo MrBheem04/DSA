@@ -1,4 +1,4 @@
-/*
+/* Structure of Linked List Node
 class Node {
 public:
     int data;
@@ -10,47 +10,63 @@ public:
         next = nullptr;
         bottom = nullptr;
     }
-}; */
+};
+*/
 
 class Solution {
-  public:
-  Node* merge(Node* list1,Node* list2){
-      
-      Node* dummy = new Node(-1);
-      Node* res = dummy;
-      
-      while(list1 != NULL && list2 != NULL){
-          if(list1->data < list2->data){
-              res->bottom = list1;
-              res = list1;
-              list1 = list1->bottom;
-          }
-          else{
-              res->bottom = list2;
-              res = list2;
-              list2 = list2->bottom;
-          }
-          res->next = NULL;
-      }
-      if(list1){
-          res->bottom = list1;
-      }
-      else{
-          res->bottom = list2;
-      }
-      if(dummy->bottom)
-      {
-          dummy->bottom->next = NULL;
-      }
-      return dummy->bottom;
-  }
-    Node *flatten(Node *root) {
-        // code here
-        if(root == NULL || root->next == NULL){
-            return root;
+public:
+
+    Node* merge(Node* a, Node* b) {
+
+        Node dummy(-1);
+        Node* tail = &dummy;
+
+        while (a && b) {
+            if (a->data <= b->data) {
+                tail->bottom = a;
+                tail = a;
+                a = a->bottom;
+            } else {
+                tail->bottom = b;
+                tail = b;
+                b = b->bottom;
+            }
+
+            tail->next = NULL;
         }
-        Node* mergeHead = flatten(root->next);
-        root = merge(root,mergeHead);
-        return root;
+
+        if (a)
+            tail->bottom = a;
+        else
+            tail->bottom = b;
+
+        return dummy.bottom;
+    }
+
+    Node* flattenUtil(Node* head) {
+
+        if (head == NULL || head->next == NULL)
+            return head;
+
+        // Find middle of horizontal list
+        Node* slow = head;
+        Node* fast = head->next;
+
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        Node* second = slow->next;
+        slow->next = NULL;
+
+        Node* left = flattenUtil(head);
+        Node* right = flattenUtil(second);
+
+        return merge(left, right);
+    }
+
+    Node* flatten(Node* root) {
+        return flattenUtil(root);
     }
 };
