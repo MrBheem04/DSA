@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/MrBheem04/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
+| [1154-day-of-the-year](https://github.com/MrBheem04/DSA/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrBheem04/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MrBheem04/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/MrBheem04/DSA/tree/master/1390-four-divisors) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/MrBheem04/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/MrBheem04/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrBheem04/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1154-day-of-the-year](https://github.com/MrBheem04/DSA/tree/master/1154-day-of-the-year) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrBheem04/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/MrBheem04/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrBheem04/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
