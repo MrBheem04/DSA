@@ -6,14 +6,14 @@ public:
             return;
         }
         for(int i=ind;i<s.size();i++){
-            if(ispalindrome(s,ind,i)){
+            if(isPalindrome(s,ind,i)){
                 path.push_back(s.substr(ind,i-ind+1));
                 fun(i+1,s,path,res);
                 path.pop_back();
             }
         }
-    } 
-    bool ispalindrome(string s,int start,int end){
+    }
+    bool isPalindrome(string s,int start,int end){
         while(start <= end){
             if(s[start++] != s[end--]){
                 return false;
