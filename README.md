@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/MrBheem04/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/MrBheem04/DSA/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MrBheem04/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MrBheem04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MrBheem04/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MrBheem04/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBheem04/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/MrBheem04/DSA/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/MrBheem04/DSA/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/MrBheem04/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MrBheem04/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/MrBheem04/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
