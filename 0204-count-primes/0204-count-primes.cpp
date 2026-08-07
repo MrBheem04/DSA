@@ -1,8 +1,9 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        if (n <= 2)
+        if (n <= 2) {
             return false;
+        }
 
         vector<bool> isprime(n, true);
         isprime[0] = isprime[1] = false;
@@ -15,8 +16,10 @@ public:
             }
         }
         int count = 0;
-        for(int i=2;i<n;i++){
-            if(isprime[i])count++;
+        for (int i = 2; i < n; i++) {
+            if (isprime[i]) {
+                count++;
+            }
         }
         return count;
     }
