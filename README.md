@@ -739,4 +739,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MrBheem04/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MrBheem04/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MrBheem04/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MrBheem04/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
