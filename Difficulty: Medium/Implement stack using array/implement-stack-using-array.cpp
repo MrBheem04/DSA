@@ -1,13 +1,13 @@
 class myStack {
     private:
-    int *arr;
-    int capacity;
+    int * arr;
+    int capcity;
     int topIndex;
   public:
     myStack(int n) {
         // Define Data Structures
-        capacity = n;
-        arr = new int[capacity];
+        capcity = n;
+        arr = new int[capcity];
         topIndex = -1;
     }
 
@@ -18,7 +18,7 @@ class myStack {
 
     bool isFull() {
         // check if the stack is full
-        return topIndex == capacity-1;
+        return topIndex == capcity-1;
     }
 
     void push(int x) {
@@ -30,12 +30,13 @@ class myStack {
         arr[topIndex] = x;
     }
 
-    int pop() {
+    void pop() {
         // removes an element from the top of the stack
         if(isEmpty()){
-            return -1;
+            return;
         }
-        return arr[topIndex--]; 
+        topIndex--;
+        
     }
 
     int peek() {
