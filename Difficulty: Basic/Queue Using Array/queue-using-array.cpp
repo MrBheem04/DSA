@@ -1,11 +1,9 @@
 class myQueue {
-    private:
     int *arr;
     int start;
     int end;
-    int currsize ;
-    int maxsize ;
-
+    int currsize;
+    int maxsize;
   public:
     myQueue(int n) {
         // Define Data Structures
@@ -36,10 +34,11 @@ class myQueue {
             end = 0;
         }
         else{
-            end = (end + 1)%maxsize;
+            end = (end + 1) % maxsize;
         }
         arr[end] = x;
         currsize++;
+        
     }
 
     void dequeue() {
@@ -47,7 +46,7 @@ class myQueue {
         if(isEmpty()){
             return;
         }
-        if(currsize == 1){
+        if(currsize == 0){
             start = -1;
             end = -1;
         }
