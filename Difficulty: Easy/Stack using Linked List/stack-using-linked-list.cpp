@@ -4,16 +4,16 @@ class Node {
     int data;
     Node* next;
 
-    Node(int x) {
-        data = x;
+    Node(int val) {
+        data = val;
         next = nullptr;
     }
-};
-*/
+};*/
+
 class myStack {
-    private:
-    Node* top;
-    int sz;
+private:
+Node* top;
+int sz;
   public:
     myStack() {
         // Initialize your data members
@@ -36,27 +36,23 @@ class myStack {
 
     void pop() {
         // Removes the top element of the stack
-        if(top == NULL){
-            return;
-        }
         Node* temp = top;
         top = top->next;
         delete temp;
         sz--;
-        
     }
 
     int peek() {
         // Returns the top element of the stack
         // If stack is empty, return -1
-        if(top == NULL){
+        if(isEmpty()){
             return -1;
         }
         return top->data;
     }
 
     int size() {
-        // Returns the current size of the stack.
+        // Returns the current size of the stack
         return sz;
     }
 };
