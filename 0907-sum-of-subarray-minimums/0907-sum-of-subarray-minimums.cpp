@@ -8,7 +8,7 @@ class Solution {
         for(int i=n-1;i>=0;i--){
             int currEle = arr[i];
 
-            while(!st.empty() && arr[st.top()] > arr[i]){
+            while(!st.empty() && arr[st.top()] >= arr[i]){
                 st.pop();
             }
             ans[i] = !st.empty() ? st.top() : n;
@@ -23,7 +23,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int currEle = arr[i];
 
-            while(!st.empty() && arr[st.top()] >= arr[i]){
+            while(!st.empty() && arr[st.top()] > arr[i]){
                 st.pop();
             }
             ans[i] = !st.empty() ? st.top() : -1;
