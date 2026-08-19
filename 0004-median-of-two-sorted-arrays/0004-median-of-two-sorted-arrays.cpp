@@ -3,43 +3,51 @@ public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int n1 = nums1.size();
         int n2 = nums2.size();
-        int n = n1+n2;
+        int n = n1 + n2;
         int ind1 = n / 2;
-        int ind2 = ind1-1;
-        int indel1 = -1, indel2 = -1;
+        int ind2 = ind1 - 1;
+        int indel1 = -1;
+        int indel2 = -1;
         int count = 0;
         int i = 0;
         int j = 0;
 
-        while(i < n1 && j < n2){
-            if(nums1[i] < nums2[j]){
-                if(count == ind1)indel1 = nums1[i];
-                if(count == ind2)indel2 = nums1[i];
+        while (i < n1 && j < n2) {
+            if (nums1[i] < nums2[j]) {
+                if (count == ind1)
+                    indel1 = nums1[i];
+                if (count == ind2)
+                    indel2 = nums1[i];
                 count++;
                 i++;
-            }
-            else{
-                if(count == ind1)indel1 = nums2[j];
-                if(count == ind2)indel2 = nums2[j];
+            } else {
+                if (count == ind1)
+                    indel1 = nums2[j];
+                if (count == ind2)
+                    indel2 = nums2[j];
                 count++;
                 j++;
             }
         }
-        while(i < n1){
-            if(count == ind1)indel1 = nums1[i];
-            if(count == ind2)indel2 = nums1[i];
+        while (i < n1) {
+            if (count == ind1)
+                indel1 = nums1[i];
+            if (count == ind2)
+                indel2 = nums1[i];
             count++;
             i++;
         }
-        while(j < n2){
-            if(count == ind1)indel1 = nums2[j];
-            if(count == ind2)indel2 = nums2[j];
+        while (j < n2) {
+            if (count == ind1)
+                indel1 = nums2[j];
+            if (count == ind2)
+                indel2 = nums2[j];
             count++;
             j++;
         }
-        if( n % 2 == 1){
+        if (n % 2 == 1) {
             return (double)(indel1);
         }
-        return (double)((double)(indel1 + indel2))/2.0;
+        return (double)(double)(indel1 + indel2) / 2.0;
     }
 };
