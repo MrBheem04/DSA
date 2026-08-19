@@ -14,7 +14,7 @@ public:
     vector<string> letterCombinations(string digits) {
         if(digits.empty())return{};
 
-        string combos[] = {
+        string combos[] ={
             "","","abc","def",
             "ghi","jkl","mno",
             "pqrs","tuv","wxyz"
