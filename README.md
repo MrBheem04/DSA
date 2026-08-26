@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MrBheem04/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MrBheem04/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MrBheem04/DSA/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/MrBheem04/DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/MrBheem04/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MrBheem04/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MrBheem04/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/MrBheem04/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MrBheem04/DSA/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/MrBheem04/DSA/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MrBheem04/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MrBheem04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrBheem04/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MrBheem04/DSA/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/MrBheem04/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MrBheem04/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MrBheem04/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
@@ -790,4 +793,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/MrBheem04/DSA/tree/master/1927-sum-game) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/MrBheem04/DSA/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/MrBheem04/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/MrBheem04/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
