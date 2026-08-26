@@ -8,17 +8,17 @@ public:
         for(int i=0;i<hashLen;i++){
             hash[i] = -1;
         }
-        int l=0;
-        int r= 0;
+        int l = 0;
+        int r = 0;
         int maxLen = 0;
+
         while(r < n){
             if(hash[s[r]] != -1){
                 l = max(hash[s[r]]+1,l);
             }
             int len = r-l+1;
-
             maxLen = max(maxLen,len);
-            hash[s[r]]=r;
+            hash[s[r]] = r;
             r++;
         }
         return maxLen;
