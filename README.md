@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MrBheem04/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MrBheem04/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MrBheem04/DSA/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/MrBheem04/DSA/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MrBheem04/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MrBheem04/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/MrBheem04/DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/MrBheem04/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MrBheem04/DSA/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/MrBheem04/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MrBheem04/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MrBheem04/DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/MrBheem04/DSA/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/MrBheem04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/MrBheem04/DSA/tree/master/1922-count-good-numbers) |
