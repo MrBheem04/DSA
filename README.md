@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MrBheem04/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MrBheem04/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/MrBheem04/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0910-smallest-range-ii](https://github.com/MrBheem04/DSA/tree/master/0910-smallest-range-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/MrBheem04/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBheem04/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBheem04/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MrBheem04/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
+| [0910-smallest-range-ii](https://github.com/MrBheem04/DSA/tree/master/0910-smallest-range-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/MrBheem04/DSA/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/MrBheem04/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/MrBheem04/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0910-smallest-range-ii](https://github.com/MrBheem04/DSA/tree/master/0910-smallest-range-ii) |
 | [1154-day-of-the-year](https://github.com/MrBheem04/DSA/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrBheem04/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MrBheem04/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/MrBheem04/DSA/tree/master/0860-lemonade-change) |
+| [0910-smallest-range-ii](https://github.com/MrBheem04/DSA/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrBheem04/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/MrBheem04/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
