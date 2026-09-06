@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/MrBheem04/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/MrBheem04/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MrBheem04/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrBheem04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MrBheem04/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/MrBheem04/DSA/tree/master/0485-max-consecutive-ones) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MrBheem04/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MrBheem04/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrBheem04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/MrBheem04/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MrBheem04/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/MrBheem04/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MrBheem04/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrBheem04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MrBheem04/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/MrBheem04/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MrBheem04/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MrBheem04/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MrBheem04/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MrBheem04/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrBheem04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/MrBheem04/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBheem04/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/MrBheem04/DSA/tree/master/0460-lfu-cache) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MrBheem04/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MrBheem04/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrBheem04/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrBheem04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/MrBheem04/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
