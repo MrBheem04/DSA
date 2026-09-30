@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MrBheem04/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MrBheem04/DSA/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
+| [0400-nth-digit](https://github.com/MrBheem04/DSA/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/MrBheem04/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/MrBheem04/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/MrBheem04/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrBheem04/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBheem04/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0400-nth-digit](https://github.com/MrBheem04/DSA/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/MrBheem04/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrBheem04/DSA/tree/master/0540-single-element-in-a-sorted-array) |
