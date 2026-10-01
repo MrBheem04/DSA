@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/MrBheem04/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/MrBheem04/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/MrBheem04/DSA/tree/master/0728-self-dividing-numbers) |
 | [0910-smallest-range-ii](https://github.com/MrBheem04/DSA/tree/master/0910-smallest-range-ii) |
 | [1154-day-of-the-year](https://github.com/MrBheem04/DSA/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrBheem04/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
