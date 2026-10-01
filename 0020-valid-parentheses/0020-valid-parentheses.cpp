@@ -11,7 +11,6 @@ public:
                 if (st.empty()) {
                     return false;
                 }
-
                 char ch = st.top();
                 st.pop();
 
