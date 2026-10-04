@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MrBheem04/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/MrBheem04/DSA/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/MrBheem04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/MrBheem04/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MrBheem04/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MrBheem04/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/MrBheem04/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBheem04/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/MrBheem04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/MrBheem04/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/MrBheem04/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrBheem04/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MrBheem04/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MrBheem04/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/MrBheem04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/MrBheem04/DSA/tree/master/0860-lemonade-change) |
 | [0910-smallest-range-ii](https://github.com/MrBheem04/DSA/tree/master/0910-smallest-range-ii) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/MrBheem04/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MrBheem04/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MrBheem04/DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/MrBheem04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/MrBheem04/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MrBheem04/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/MrBheem04/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -849,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrBheem04/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/MrBheem04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MrBheem04/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
