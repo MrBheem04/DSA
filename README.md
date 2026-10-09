@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/MrBheem04/DSA/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
 | [0400-nth-digit](https://github.com/MrBheem04/DSA/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/MrBheem04/DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MrBheem04/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/MrBheem04/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MrBheem04/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/MrBheem04/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MrBheem04/DSA/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/MrBheem04/DSA/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/MrBheem04/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MrBheem04/DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrBheem04/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/MrBheem04/DSA/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MrBheem04/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/MrBheem04/DSA/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/MrBheem04/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBheem04/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/MrBheem04/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/MrBheem04/DSA/tree/master/0709-to-lower-case) |
