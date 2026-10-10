@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MrBheem04/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/MrBheem04/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/MrBheem04/DSA/tree/master/0735-asteroid-collision) |
+| [0812-largest-triangle-area](https://github.com/MrBheem04/DSA/tree/master/0812-largest-triangle-area) |
 | [0846-hand-of-straights](https://github.com/MrBheem04/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/MrBheem04/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/MrBheem04/DSA/tree/master/0875-koko-eating-bananas) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/MrBheem04/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/MrBheem04/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/MrBheem04/DSA/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/MrBheem04/DSA/tree/master/0812-largest-triangle-area) |
 | [0910-smallest-range-ii](https://github.com/MrBheem04/DSA/tree/master/0910-smallest-range-ii) |
 | [1154-day-of-the-year](https://github.com/MrBheem04/DSA/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrBheem04/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/MrBheem04/DSA/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/MrBheem04/DSA/tree/master/0812-largest-triangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -935,4 +938,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrBheem04/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/MrBheem04/DSA/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
