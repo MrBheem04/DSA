@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrBheem04/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MrBheem04/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MrBheem04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MrBheem04/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MrBheem04/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MrBheem04/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrBheem04/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MrBheem04/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MrBheem04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/MrBheem04/DSA/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBheem04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/MrBheem04/DSA/tree/master/3024-type-of-triangle) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MrBheem04/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/MrBheem04/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/MrBheem04/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MrBheem04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/MrBheem04/DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/MrBheem04/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrBheem04/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MrBheem04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBheem04/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MrBheem04/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Depth-First Search
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/MrBheem04/DSA/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MrBheem04/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/MrBheem04/DSA/tree/master/0621-task-scheduler) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MrBheem04/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/MrBheem04/DSA/tree/master/2974-minimum-number-game) |
 ## Sliding Window
 |  |
